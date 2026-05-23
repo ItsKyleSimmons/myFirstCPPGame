@@ -5,8 +5,10 @@
 int main()
 {
 
-	std::cout << "Cmake hello world\n";
+	std::cout << "This is Kyle, hello world!\n";
 	std::cin.get();
+
+	//Also I changed smth :)
 
 	return 0;
 }
