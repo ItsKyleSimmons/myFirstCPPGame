@@ -9,6 +9,7 @@ int main()
 	std::cin.get();
 
 	//Also I changed smth :)
+	//test
 
 	return 0;
 }
